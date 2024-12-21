@@ -1,3 +1,3 @@
 # anas_portfolio
 Analytics Portfolio
-# wELCOME TO MY PORTFOLIO
+# WELCOME TO MY PORTFOLIO
